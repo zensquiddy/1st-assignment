@@ -1,2 +1,2 @@
 # McDonalds Webpage
-https://zensquiddy.github.io/1st-assignment
+https://zensquiddy.github.io/HTML-MCD-PAGE
